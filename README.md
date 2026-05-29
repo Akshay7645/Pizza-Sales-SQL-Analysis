@@ -295,9 +295,8 @@ Aspiring Data Analyst passionate about SQL, Data Analytics, and Business Problem
 </div>
 
 <p align="center">
-  <a href="https://github.com/yourusername">GitHub</a> |
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
-</p>
+  <a href="https://github.com/yourusername">GitHub</a> 
+  
 
 ---
 <p align="center">
@@ -306,8 +305,6 @@ Aspiring Data Analyst passionate about SQL, Data Analytics, and Business Problem
   <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="www.linkedin.com/in/akshay-paswan7645">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
 </a>
 </a>
 
