@@ -127,9 +127,6 @@ The project includes revenue analysis, customer ordering behavior, top-selling p
 Pizza-Sales-SQL-Analysis
 │
 ├── README.md
-├── index.html
-├── style.css
-├── script.js
 │
 ├── Dataset
 │   ├── order_details.csv
