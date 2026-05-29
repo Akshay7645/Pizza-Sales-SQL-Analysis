@@ -24,7 +24,26 @@ The project includes revenue analysis, customer ordering behavior, top-selling p
 </p>
 
 ---
+<div align="center">
 
+##      Business Questions Solved
+</div>
+
+
+This project answers key business questions such as:
+
+1. How many total orders were placed?
+2. What is the total revenue generated?
+3. Which pizza generates the highest revenue?
+4. What is the most commonly ordered pizza size?
+5. Which pizza types are ordered the most?
+6. Which pizza category contributes the most sales?
+7. What are the peak ordering hours?
+8. How many pizzas are ordered on average per day?
+9. Which pizzas generate the highest revenue?
+10. What is the revenue contribution of each pizza category?
+11. How does cumulative revenue grow over time?
+12. What are the top-performing pizzas within each category?
 <div align="center">
 
 ##  Objectives
@@ -49,10 +68,24 @@ The project includes revenue analysis, customer ordering behavior, top-selling p
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,html,css,js,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,html,github,vscode" />
 </p>
 
 ---
+<div align="center">
+
+##  Query Difficulty Breakdown
+</div>
+
+<div align="center">
+
+| Level | Topics Covered |
+|---------|---------------|
+| Basic | SELECT, COUNT, SUM, ORDER BY |
+| Intermediate | JOINS, GROUP BY, Aggregations |
+| Advanced | Subqueries, Window Functions, RANK() |
+
+</div>
 
 <div align="center">
 
@@ -100,7 +133,19 @@ The project includes revenue analysis, customer ordering behavior, top-selling p
 </table>
 
 ---
+<div align="center">
 
+##  Project Highlights
+
+</div>
+
+- Solved 12 real-world business problems
+- Used 4 relational datasets
+- Applied Basic to Advanced SQL concepts
+- Performed revenue and sales trend analysis
+- Used Window Functions for advanced analytics
+- Generated actionable business insights
+- Followed a structured SQL learning approach
 <div align="center">
 
 ##  Key Business Insights
@@ -131,7 +176,7 @@ Pizza-Sales-SQL-Analysis
 ├── Dataset
 │   ├── order_details.csv
 │   ├── orders.csv
-│   ├── pizza_type.csv
+│   ├── pizza_types.csv
 │   └── pizzas.csv
 │
 ├── SQL Queries
@@ -145,55 +190,25 @@ Pizza-Sales-SQL-Analysis
 ```
 
 ---
+##  Dataset Information
 
+The project uses four related datasets:
+
+| Dataset | Description |
+|----------|-------------|
+| orders.csv | Order-level information |
+| order_details.csv | Product quantities per order |
+| pizzas.csv | Pizza pricing and size details |
+| pizza_types.csv | Pizza names and categories |
 #  Folder Explanation
 
 ## README.md
 
-Project overview, technologies used, SQL concepts, screenshots, and project links.
+Project overview, technologies used, SQL concepts.
 
 ---
 
-## index.html
 
-Interactive project webpage.
-
-Use for:
-
-* Project overview
-* Insights
-* Tables
-* Buttons
-* Project sections
-
----
-
-## style.css
-
-Project webpage styling.
-
-Use for:
-
-* Colors
-* Layout
-* Cards
-* Buttons
-* Responsive design
-
----
-
-## script.js
-
-Interactive functionality.
-
-Use for:
-
-* Button click effects
-* Card hover animation
-* Alerts
-* Small interactions
-
----
 
 #  Dataset Folder
 
@@ -206,7 +221,7 @@ Contains all CSV files:
 ```bash
 order_details.csv
 orders.csv
-pizza_type.csv
+pizza_types.csv
 pizzas.csv
 ```
 
@@ -255,23 +270,29 @@ pizzas-sales.pdf
 ```
 <div align="center">
 
-##  Interactive Website
+
+##  Skills Demonstrated
 
 </div>
 
-<p align="center">
-
-<a href="index.html">
-  View Interactive Project
-</a>
-
-</p>
+- SQL Query Writing
+- Data Analysis
+- Business Intelligence
+- Data Aggregation
+- Revenue Analysis
+- Trend Analysis
+- Relational Database Understanding
+- Analytical Thinking
 
 ---
+##  Project Outcome
 
+Through this project, I strengthened my SQL skills by solving real-world business problems using Basic, Intermediate, and Advanced SQL queries.
+
+The analysis helped uncover revenue trends, customer ordering behavior, category performance, and top-selling products, demonstrating how SQL can be used to drive business decisions.
 <div align="center">
 
-##  Author
+##  Created By
 
 </div>
 
@@ -290,19 +311,17 @@ Aspiring Data Analyst passionate about SQL, Data Analytics, and Business Problem
 ##  Connect With Me
 
 </div>
-
-<p align="center">
-  <a href="https://github.com/yourusername">GitHub</a> 
   
 
----
 <p align="center">
 
 <a href="https://github.com/Akshay7645">
   <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 
-</a>
-</a>
 
+
+  <a href="https://www.linkedin.com/in/akshay-paswan7645">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
